@@ -1,0 +1,70 @@
+body{
+    background-color: white;
+}
+
+#sec1{
+    background-color: black;
+    margin-top: -2%;
+    padding: 2%;
+}
+
+.title{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: black;
+    margin-top: 1%;
+    padding: 15px;
+}
+
+#sec2{
+    background-color: #D9D9D9;
+    border-radius: 30px;
+    width: 80%;
+    margin-top: 3%;
+    padding: 3px;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 23px;
+    color: black;
+
+}
+
+#input1{
+   width: 19%;
+   height: 30px;
+   font-size: 20px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#input2{
+    width: 19%;
+   height: 30px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#calcular{
+    width: 22%;
+    height: 57px;
+    border-radius: 8px;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #767171;
+    color: black;
+}
+
+#subti{
+    font-size: 35px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-right: 60%;
+}
+
+
+.text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 23px;
+    color: white;
+}
